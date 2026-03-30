@@ -27,5 +27,5 @@ A feature-rich Tic Tac Toe game with AI opponents, statistics tracking, and mult
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-ultimate.git
+git clone https://github.com/vaishnavikharya7-alt/tic-tac-toe-ultimate.git
 cd tic-tac-toe-ultimate
